@@ -29,6 +29,9 @@ If you're interested in diving into the project or want to learn more about the 
 
 #FrontendDevelopment #WebDevelopment #JavaScript #RecipeApp #Coding #Foodies
 
+## Deployment 🚀
+http://ovenoasis.netlify.app
+
 ---
 
 Feel free to fork, contribute, or share your feedback! Happy cooking! 🥘✨
